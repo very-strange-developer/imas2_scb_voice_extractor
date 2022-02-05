@@ -1,5 +1,5 @@
 # imas2_scb_voice_extractor
-## How to<br>
+## How to use<br>
 ![이미지 793](https://user-images.githubusercontent.com/96247875/152630449-20ba4ebb-443f-4d8d-9729-0e7d469f8f22.png)<br>
 Set the files as above.<br>
 Run the start.bat<br>
